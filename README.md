@@ -1,2 +1,4 @@
-# old-portfolio
-First portfolio website made using only HTML, CSS and JS
+# Anika's Personal Portfolio Website
+### Responsive Portfolio Complete
+
+- Contains sections for About, Skills, Services, Education, Projects, Contact
